@@ -18,12 +18,12 @@
       </Dependencies>
     </ProjectItem>
     <ProjectItem>
-      <Name>vista_compras.cube</Name>
-      <FullPath>vista_compras.cube</FullPath>
+      <Name>cubo_compras.cube</Name>
+      <FullPath>cubo_compras.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>vista_compras.partitions</Name>
-          <FullPath>vista_compras.partitions</FullPath>
+          <Name>cubo_compras.partitions</Name>
+          <FullPath>cubo_compras.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
@@ -50,12 +50,20 @@
       <FullPath>Cliente.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>Sucursal 1.dim</Name>
+      <FullPath>Sucursal 1.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Producto 1.dim</Name>
       <FullPath>Producto 1.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Sucursal 1.dim</Name>
-      <FullPath>Sucursal 1.dim</FullPath>
+      <Name>HoraVentas.dim</Name>
+      <FullPath>HoraVentas.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>HoraCompras.dim</Name>
+      <FullPath>HoraCompras.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
@@ -72,6 +80,10 @@
     <ProjectItem>
       <Name>vista_compras.dsv</Name>
       <FullPath>vista_compras.dsv</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ProyectoFase2_SSAS.dsv</Name>
+      <FullPath>ProyectoFase2_SSAS.dsv</FullPath>
     </ProjectItem>
   </DataSourceViews>
   <Configurations>

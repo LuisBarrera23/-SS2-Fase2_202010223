@@ -19,84 +19,105 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>gzWN62HjLFJhLHo5xNX+sTkLCYY=29/04/2024 02:47:2129/04/2024 02:15:57</TimeStamp>
+        <TimeStamp>gzWN62HjLFJhLHo5xNX+sTkLCYY=29/04/2024 02:47:2129/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>Seminario2 202010223</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>3wtp+A5VrQBkQ5x+anep/PhxUaI=29/04/2024 00:59:5429/04/2024 00:59:53</TimeStamp>
+        <TimeStamp>kfjdQ3M67g6UCwwsLfQGVGgFYzY=30/04/2024 01:08:5729/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>vista_ventas</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>pqEX3kfDLmbNZH1KpgU3j9StCu0=29/04/2024 01:02:2729/04/2024 01:02:27</TimeStamp>
+        <TimeStamp>csUFfDiMxErUVX5NROMJiAPLwIE=30/04/2024 01:46:0929/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>vista_compras</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>yQU1jtukKRn/BUt0ZqMJM5b3W8E=30/04/2024 01:45:0230/04/2024 01:04:19</TimeStamp>
+        <ID>
+          <String>ProyectoFase2_SSAS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>YveNRkN95PwbODhX4AHWjtBvVUo=29/04/2024 01:13:2929/04/2024 01:12:35</TimeStamp>
+        <TimeStamp>YveNRkN95PwbODhX4AHWjtBvVUo=29/04/2024 01:13:2929/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>Producto</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>2Iv/dHzIUAGCql4C/sHutg82Fww=29/04/2024 01:13:2929/04/2024 01:13:29</TimeStamp>
+        <TimeStamp>2Iv/dHzIUAGCql4C/sHutg82Fww=29/04/2024 01:13:2929/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>Sucursal</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>LHVMvkvR5wpHXB3nSszFq8zLEdg=29/04/2024 01:13:4529/04/2024 01:13:45</TimeStamp>
+        <TimeStamp>LHVMvkvR5wpHXB3nSszFq8zLEdg=29/04/2024 01:13:4529/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>Vendedor</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Ma/sd7alXX/m8ZXrUXRFS/dEjlE=29/04/2024 01:15:0329/04/2024 01:15:03</TimeStamp>
+        <TimeStamp>Ma/sd7alXX/m8ZXrUXRFS/dEjlE=29/04/2024 01:15:0329/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>Proveedor</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>pV8biX+9VW9VLwYOGzFPEfjXCA0=29/04/2024 02:48:3529/04/2024 01:12:09</TimeStamp>
+        <TimeStamp>pV8biX+9VW9VLwYOGzFPEfjXCA0=29/04/2024 02:48:3529/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>Cliente</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>0NCIGKYpymnRrJnsblGeRyB1mW8=29/04/2024 03:07:5929/04/2024 03:07:58</TimeStamp>
+        <TimeStamp>T9FvBT3MXEhJYpOJ1FeGSIcLBXw=29/04/2024 23:43:4929/04/2024 23:43:49</TimeStamp>
+        <ID>
+          <String>Sucursal 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>a60qY/M0uYux77HHCwJoMJJ3yzw=29/04/2024 23:46:4329/04/2024 23:45:09</TimeStamp>
         <ID>
           <String>Producto 1</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>mtksoAoNvp1QHbUFN5Sg0pWgCks=29/04/2024 03:07:5929/04/2024 03:07:59</TimeStamp>
+        <TimeStamp>6Cprisi/TL89iwzzSRxqvtz8BIk=30/04/2024 01:46:0930/04/2024 01:02:34</TimeStamp>
         <ID>
-          <String>Sucursal 1</String>
+          <String>HoraVentas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>sH7WH8yRFVaIeJimcgh7iMqDbPk=30/04/2024 01:46:0930/04/2024 01:44:41</TimeStamp>
+        <ID>
+          <String>HoraCompras</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>ttywG7+JxXalhmBhPdphkf3kWhU=29/04/2024 03:01:4229/04/2024 03:01:42YmQiwaEdBhSBi0b5PgrvtpYyFD8=29/04/2024 03:01:4229/04/2024 03:01:42</TimeStamp>
+        <TimeStamp>yC4DnTlTMO1ttABRE+mpTXv2NAo=30/04/2024 01:08:5729/04/2024 21:16:35YmQiwaEdBhSBi0b5PgrvtpYyFD8=29/04/2024 03:01:4229/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>cubo_ventas</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>9S7HYwTFC+AVjnEAR0KUjYxmEC4=29/04/2024 03:07:5929/04/2024 03:07:58gQ7lwyDcCktHQFsJt5uE2L3BGWk=29/04/2024 03:07:5929/04/2024 03:07:58</TimeStamp>
+        <TimeStamp>EUW/QoFIfzOalDOVEWhRQ7PYxq0=30/04/2024 01:50:2529/04/2024 23:46:11T8yYSBX0MSdWuJfKpzuUxYfRvwg=29/04/2024 23:46:1129/04/2024 23:46:11</TimeStamp>
         <ID>
           <String>vista_compras</String>
         </ID>
@@ -104,7 +125,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>HRkf5Glnf+hi9aHnalx8SPwBFNc=29/04/2024 00:12:0229/04/2024 00:12:02</TimeStamp>
+      <TimeStamp>FeQdTpcYF4GJjSeEjcDD0x3Rt+0=30/04/2024 01:45:0229/04/2024 21:16:35</TimeStamp>
       <ID>
         <String>ProyectoFase2_SSAS</String>
       </ID>
@@ -113,5 +134,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2024-04-29T09:08:07.583333Z</LastDeployed>
+  <LastDeployed>2024-04-30T07:50:39.1Z</LastDeployed>
 </DeploymentSnapshot>

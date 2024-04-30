@@ -28,10 +28,16 @@
         <ID>Cliente</ID>
       </Dimension>
       <Dimension>
+        <ID>Sucursal 1</ID>
+      </Dimension>
+      <Dimension>
         <ID>Producto 1</ID>
       </Dimension>
       <Dimension>
-        <ID>Sucursal 1</ID>
+        <ID>HoraVentas</ID>
+      </Dimension>
+      <Dimension>
+        <ID>HoraCompras</ID>
       </Dimension>
     </Dimensions>
     <Cubes>
