@@ -1317,8 +1317,8 @@
     <Dimension>
       <ID>HoraVentas</ID>
       <Name>HoraVentas</Name>
-      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
       <Annotations>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
@@ -1402,7 +1402,7 @@
           </Value>
         </Annotation>
       </Annotations>
-      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Source xsi:type="DataSourceViewBinding">
         <DataSourceViewID>ProyectoFase2_SSAS</DataSourceViewID>
@@ -1803,8 +1803,8 @@
     <Dimension>
       <ID>HoraCompras</ID>
       <Name>HoraCompras</Name>
-      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
       <Annotations>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
@@ -1888,7 +1888,7 @@
           </Value>
         </Annotation>
       </Annotations>
-      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <LastProcessed>0001-01-01T06:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Source xsi:type="DataSourceViewBinding">
         <DataSourceViewID>ProyectoFase2_SSAS</DataSourceViewID>
@@ -2298,7 +2298,7 @@
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
           <Value>
             <dds xmlns="">
-              <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="11" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3152" scrolltop="-817" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="19749" y="16320" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+              <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="22" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3152" scrolltop="-817" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="19749" y="16320" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                 <font>
                   <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
                 </font>
@@ -2309,7 +2309,7 @@
               <layoutmanager>
                 <ddsxmlobj />
               </layoutmanager>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Sucursal" left="20" top="5787" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="4001" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Sucursal" left="20" top="5787" logicalid="11" controlid="1" masterid="0" hint1="0" hint2="0" width="4001" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobjectstreaminitwrapper binary="000e0000a10f0000d30b0000" />
                 </control>
@@ -2320,7 +2320,7 @@
                 </layoutobject>
                 <shape groupshapeid="0" groupnode="0" />
               </ddscontrol>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Cliente" left="6421" top="0" logicalid="2" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Cliente" left="6421" top="0" logicalid="12" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000d30b0000" />
                 </control>
@@ -2331,7 +2331,7 @@
                 </layoutobject>
                 <shape groupshapeid="0" groupnode="0" />
               </ddscontrol>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Venta" left="6421" top="5427" logicalid="3" controlid="3" masterid="0" hint1="0" hint2="0" width="3000" height="3747" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Venta" left="6421" top="5427" logicalid="13" controlid="3" masterid="0" hint1="0" hint2="0" width="3000" height="3747" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000a30e0000" />
                 </control>
@@ -2342,7 +2342,7 @@
                 </layoutobject>
                 <shape groupshapeid="0" groupnode="0" />
               </ddscontrol>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Vendedor" left="11821" top="6147" logicalid="4" controlid="4" masterid="0" hint1="0" hint2="0" width="3000" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Vendedor" left="11821" top="6147" logicalid="14" controlid="4" masterid="0" hint1="0" hint2="0" width="3000" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobjectstreaminitwrapper binary="000e0000b80b000003090000" />
                 </control>
@@ -2353,7 +2353,7 @@
                 </layoutobject>
                 <shape groupshapeid="0" groupnode="0" />
               </ddscontrol>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Producto" left="6228" top="11574" logicalid="5" controlid="5" masterid="0" hint1="0" hint2="0" width="3387" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Producto" left="6228" top="11574" logicalid="15" controlid="5" masterid="0" hint1="0" hint2="0" width="3387" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobjectstreaminitwrapper binary="000e00003b0d00006b0a0000" />
                 </control>
@@ -2364,7 +2364,7 @@
                 </layoutobject>
                 <shape groupshapeid="0" groupnode="0" />
               </ddscontrol>
-              <ddscontrol controlprogid="MSDDS.Polyline" left="3721" top="6901" logicalid="6" controlid="6" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="MSDDS.Polyline" left="3721" top="6901" logicalid="16" controlid="6" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobj>
                     <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -2382,7 +2382,7 @@
                   <point x="6421" y="7300" />
                 </connector>
               </ddscontrol>
-              <ddscontrol controlprogid="MSDDS.Polyline" left="7522" top="2528" logicalid="7" controlid="7" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="MSDDS.Polyline" left="7522" top="2528" logicalid="17" controlid="7" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobj>
                     <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -2400,7 +2400,7 @@
                   <point x="7921" y="5427" />
                 </connector>
               </ddscontrol>
-              <ddscontrol controlprogid="MSDDS.Polyline" left="7522" top="8874" logicalid="8" controlid="8" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="MSDDS.Polyline" left="7522" top="8874" logicalid="18" controlid="8" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobj>
                     <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -2418,7 +2418,7 @@
                   <point x="7921" y="9174" />
                 </connector>
               </ddscontrol>
-              <ddscontrol controlprogid="MSDDS.Polyline" left="9121" top="6901" logicalid="9" controlid="9" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="MSDDS.Polyline" left="9121" top="6901" logicalid="19" controlid="9" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobj>
                     <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -2436,7 +2436,7 @@
                   <point x="9421" y="7300" />
                 </connector>
               </ddscontrol>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="HoraVentas" left="11068" top="9183" logicalid="10" controlid="10" masterid="0" hint1="0" hint2="0" width="4741" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="HoraVentas" left="11068" top="9183" logicalid="20" controlid="10" masterid="0" hint1="0" hint2="0" width="4741" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
                   <ddsxmlobjectstreaminitwrapper binary="000e00008512000088130000" />
                 </control>
@@ -2797,7 +2797,7 @@
             <dds xmlns="">
               <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="18" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-5182" scrolltop="-997" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="19749" y="16320" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                 <font>
-                  <ddsxmlobjectstreamwrapper binary="01010000900180380100065461686f6d61" />
+                  <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
                 </font>
                 <mouseicon>
                   <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
@@ -3262,7 +3262,7 @@
                 <Name>_ALL_TABLES_</Name>
                 <DiagramLayout>
                   <dds>
-                    <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="21" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-4872" scrolltop="-5000" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="20341" y="17611" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+                    <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="10" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="7113" scrolltop="6940" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="22183" y="17611" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                       <font>
                         <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
                       </font>
@@ -3273,7 +3273,7 @@
                     <layoutmanager>
                       <ddsxmlobj />
                     </layoutmanager>
-                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Cliente" left="0" top="5787" logicalid="10" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" left="20" top="5787" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000d30b0000" />
                       </control>
@@ -3284,7 +3284,7 @@
                       </layoutobject>
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
-                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Producto" left="10800" top="5967" logicalid="11" controlid="2" masterid="0" hint1="0" hint2="0" width="3387" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Producto" left="10820" top="5967" logicalid="2" controlid="2" masterid="0" hint1="0" hint2="0" width="3387" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobjectstreaminitwrapper binary="000e00003b0d00006b0a0000" />
                       </control>
@@ -3295,7 +3295,7 @@
                       </layoutobject>
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
-                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Sucursal" left="4900" top="0" logicalid="12" controlid="3" masterid="0" hint1="0" hint2="0" width="4001" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" left="4920" top="0" logicalid="3" controlid="3" masterid="0" hint1="0" hint2="0" width="4001" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobjectstreaminitwrapper binary="000e0000a10f0000d30b0000" />
                       </control>
@@ -3306,7 +3306,7 @@
                       </layoutobject>
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
-                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Vendedor" left="5400" top="11574" logicalid="13" controlid="4" masterid="0" hint1="0" hint2="0" width="3000" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Vendedor" left="5420" top="11574" logicalid="4" controlid="4" masterid="0" hint1="0" hint2="0" width="3000" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobjectstreaminitwrapper binary="000e0000b80b000003090000" />
                       </control>
@@ -3317,7 +3317,7 @@
                       </layoutobject>
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
-                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Venta" left="5400" top="5427" logicalid="14" controlid="5" masterid="0" hint1="0" hint2="0" width="3000" height="3747" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Venta" left="5420" top="5427" logicalid="5" controlid="5" masterid="0" hint1="0" hint2="0" width="3000" height="3747" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000a30e0000" />
                       </control>
@@ -3328,7 +3328,7 @@
                       </layoutobject>
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
-                    <ddscontrol controlprogid="MSDDS.Polyline" left="8100" top="6901" logicalid="15" controlid="6" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="MSDDS.Polyline" left="8120" top="6901" logicalid="6" controlid="6" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobj>
                           <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -3342,11 +3342,11 @@
                         </ddsxmlobj>
                       </layoutobject>
                       <connector lineroutestyle="MSDDS.Rectilinear" sourceid="2" destid="5" sourceattachpoint="14" destattachpoint="17" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-                        <point x="10800" y="7300" />
-                        <point x="8400" y="7300" />
+                        <point x="10820" y="7300" />
+                        <point x="8420" y="7300" />
                       </connector>
                     </ddscontrol>
-                    <ddscontrol controlprogid="MSDDS.Polyline" left="2700" top="6901" logicalid="16" controlid="7" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="MSDDS.Polyline" left="2720" top="6901" logicalid="7" controlid="7" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobj>
                           <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -3360,11 +3360,11 @@
                         </ddsxmlobj>
                       </layoutobject>
                       <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="5" sourceattachpoint="15" destattachpoint="16" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-                        <point x="3000" y="7300" />
-                        <point x="5400" y="7300" />
+                        <point x="3020" y="7300" />
+                        <point x="5420" y="7300" />
                       </connector>
                     </ddscontrol>
-                    <ddscontrol controlprogid="MSDDS.Polyline" left="6501" top="8874" logicalid="17" controlid="8" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="MSDDS.Polyline" left="6521" top="8874" logicalid="8" controlid="8" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobj>
                           <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -3378,11 +3378,11 @@
                         </ddsxmlobj>
                       </layoutobject>
                       <connector lineroutestyle="MSDDS.Rectilinear" sourceid="4" destid="5" sourceattachpoint="4" destattachpoint="5" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-                        <point x="6900" y="11574" />
-                        <point x="6900" y="9174" />
+                        <point x="6920" y="11574" />
+                        <point x="6920" y="9174" />
                       </connector>
                     </ddscontrol>
-                    <ddscontrol controlprogid="MSDDS.Polyline" left="6501" top="2528" logicalid="18" controlid="9" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+                    <ddscontrol controlprogid="MSDDS.Polyline" left="6521" top="2528" logicalid="9" controlid="9" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                       <control>
                         <ddsxmlobj>
                           <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -3396,27 +3396,16 @@
                         </ddsxmlobj>
                       </layoutobject>
                       <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="5" sourceattachpoint="7" destattachpoint="4" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-                        <point x="6900" y="3027" />
-                        <point x="6900" y="5427" />
+                        <point x="6920" y="3027" />
+                        <point x="6920" y="5427" />
                       </connector>
                     </ddscontrol>
-                    <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="HoraVentas" left="0" top="0" logicalid="20" controlid="11" masterid="0" hint1="0" hint2="0" width="4911" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-                      <control>
-                        <ddsxmlobjectstreaminitwrapper binary="000e00002f13000088130000" />
-                      </control>
-                      <layoutobject>
-                        <ddsxmlobj>
-                          <property name="LogicalObject" value="HoraVentas" vartype="8" />
-                        </ddsxmlobj>
-                      </layoutobject>
-                      <shape groupshapeid="0" groupnode="0" />
-                    </ddscontrol>
                   </dds>
-</DiagramLayout>
+                </DiagramLayout>
                 <ShowRelationshipNames>False</ShowRelationshipNames>
                 <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
-                <DiagramViewPortLeft>-4872</DiagramViewPortLeft>
-                <DiagramViewPortTop>-5000</DiagramViewPortTop>
+                <DiagramViewPortLeft>7113</DiagramViewPortLeft>
+                <DiagramViewPortTop>6940</DiagramViewPortTop>
                 <DiagramBoundingLeft>0</DiagramBoundingLeft>
                 <DiagramBoundingTop>0</DiagramBoundingTop>
                 <DiagramZoom>75</DiagramZoom>
@@ -3595,80 +3584,80 @@
                 <xs:element name="HoraVentas" msprop:design-time-name="91b62cca-6406-4003-b48f-533b35ece925" msprop:FriendlyName="HoraVentas" msprop:DbSchemaName="dbo" msprop:AllowGen="True" msprop:TableType="Table" msprop:DbTableName="HoraVentas">
                   <xs:complexType>
                     <xs:sequence>
-                      <xs:element name="Fecha" msprop:design-time-name="3e00b799-80ed-4dc2-a79a-82a22ea9143b" msprop:AllowGen="True" msprop:DbColumnName="PK_Fecha" msprop:FriendlyName="PK_Fecha" type="xs:dateTime" />
-                      <xs:element name="Fecha_Nombre" msprop:design-time-name="2c64e78b-0b2b-4275-b548-eb9d6f8dd961" msprop:AllowGen="True" msprop:DbColumnName="Fecha_Nombre" msprop:FriendlyName="Fecha_Nombre" minOccurs="0">
+                      <xs:element name="Fecha" msprop:design-time-name="3e00b799-80ed-4dc2-a79a-82a22ea9143b" msprop:FriendlyName="PK_Fecha" msprop:DbColumnName="PK_Fecha" msprop:AllowGen="True" type="xs:dateTime" />
+                      <xs:element name="Fecha_Nombre" msprop:design-time-name="2c64e78b-0b2b-4275-b548-eb9d6f8dd961" msprop:FriendlyName="Fecha_Nombre" msprop:DbColumnName="Fecha_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Año" msprop:design-time-name="4015a4b6-0e4d-41f9-9078-072511a5acf8" msprop:AllowGen="True" msprop:DbColumnName="Año" msprop:FriendlyName="Año" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Año_Nombre" msprop:design-time-name="cb689586-6e52-4866-bc5a-c9bdde72538a" msprop:AllowGen="True" msprop:DbColumnName="Año_Nombre" msprop:FriendlyName="Año_Nombre" minOccurs="0">
+                      <xs:element name="Año" msprop:design-time-name="4015a4b6-0e4d-41f9-9078-072511a5acf8" msprop:FriendlyName="Año" msprop:DbColumnName="Año" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Año_Nombre" msprop:design-time-name="cb689586-6e52-4866-bc5a-c9bdde72538a" msprop:FriendlyName="Año_Nombre" msprop:DbColumnName="Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre" msprop:design-time-name="83bb5acb-6562-40cf-80cb-bcf7286a65e9" msprop:AllowGen="True" msprop:DbColumnName="Semestre" msprop:FriendlyName="Semestre" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Semestre_Nombre" msprop:design-time-name="34a4dcb4-24f5-4927-a84c-01a5b9eaa6cb" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Nombre" msprop:FriendlyName="Semestre_Nombre" minOccurs="0">
+                      <xs:element name="Semestre" msprop:design-time-name="83bb5acb-6562-40cf-80cb-bcf7286a65e9" msprop:FriendlyName="Semestre" msprop:DbColumnName="Semestre" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Semestre_Nombre" msprop:design-time-name="34a4dcb4-24f5-4927-a84c-01a5b9eaa6cb" msprop:FriendlyName="Semestre_Nombre" msprop:DbColumnName="Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes" msprop:design-time-name="386e54b4-56d0-4372-a6c1-64966579fbd0" msprop:AllowGen="True" msprop:DbColumnName="Mes" msprop:FriendlyName="Mes" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Mes_Nombre" msprop:design-time-name="8b07bde6-fd1c-4619-aef2-4daf8695e29a" msprop:AllowGen="True" msprop:DbColumnName="Mes_Nombre" msprop:FriendlyName="Mes_Nombre" minOccurs="0">
+                      <xs:element name="Mes" msprop:design-time-name="386e54b4-56d0-4372-a6c1-64966579fbd0" msprop:FriendlyName="Mes" msprop:DbColumnName="Mes" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Mes_Nombre" msprop:design-time-name="8b07bde6-fd1c-4619-aef2-4daf8695e29a" msprop:FriendlyName="Mes_Nombre" msprop:DbColumnName="Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Año" msprop:design-time-name="86c69b93-b06a-447d-8e41-67dad8abe4bf" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año" msprop:FriendlyName="Día_Del_Año" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="fcb0f983-60eb-4745-ab81-af194125723c" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:FriendlyName="Día_Del_Año_Nombre" minOccurs="0">
+                      <xs:element name="Día_Del_Año" msprop:design-time-name="86c69b93-b06a-447d-8e41-67dad8abe4bf" msprop:FriendlyName="Día_Del_Año" msprop:DbColumnName="Día_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="fcb0f983-60eb-4745-ab81-af194125723c" msprop:FriendlyName="Día_Del_Año_Nombre" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="8314bd73-e6ca-41cf-8c59-7693ae01c40d" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre" msprop:FriendlyName="Día_Del_Semestre" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="aabd01b8-1fd8-43fb-a723-d0bc4dfe550b" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:FriendlyName="Día_Del_Semestre_Nombre" minOccurs="0">
+                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="8314bd73-e6ca-41cf-8c59-7693ae01c40d" msprop:FriendlyName="Día_Del_Semestre" msprop:DbColumnName="Día_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="aabd01b8-1fd8-43fb-a723-d0bc4dfe550b" msprop:FriendlyName="Día_Del_Semestre_Nombre" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Mes" msprop:design-time-name="e05f6e5f-e9b8-468b-acdb-81ccb35e9b40" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes" msprop:FriendlyName="Día_Del_Mes" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="e92598ac-0900-40e5-bc37-42a0ff8e0ccb" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:FriendlyName="Día_Del_Mes_Nombre" minOccurs="0">
+                      <xs:element name="Día_Del_Mes" msprop:design-time-name="e05f6e5f-e9b8-468b-acdb-81ccb35e9b40" msprop:FriendlyName="Día_Del_Mes" msprop:DbColumnName="Día_Del_Mes" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="e92598ac-0900-40e5-bc37-42a0ff8e0ccb" msprop:FriendlyName="Día_Del_Mes_Nombre" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Año" msprop:design-time-name="2b7a1267-8fd1-4554-a3e5-f8ef7cde1356" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año" msprop:FriendlyName="Mes_Del_Año" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="7f23a992-ee44-4318-ae4a-f3c181bf32d9" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:FriendlyName="Mes_Del_Año_Nombre" minOccurs="0">
+                      <xs:element name="Mes_Del_Año" msprop:design-time-name="2b7a1267-8fd1-4554-a3e5-f8ef7cde1356" msprop:FriendlyName="Mes_Del_Año" msprop:DbColumnName="Mes_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="7f23a992-ee44-4318-ae4a-f3c181bf32d9" msprop:FriendlyName="Mes_Del_Año_Nombre" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="a4859940-f163-4f02-aa15-e30f364a335c" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre" msprop:FriendlyName="Mes_Del_Semestre" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="8f1165ad-5b18-4074-a539-276fee3f9b5b" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:FriendlyName="Mes_Del_Semestre_Nombre" minOccurs="0">
+                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="a4859940-f163-4f02-aa15-e30f364a335c" msprop:FriendlyName="Mes_Del_Semestre" msprop:DbColumnName="Mes_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="8f1165ad-5b18-4074-a539-276fee3f9b5b" msprop:FriendlyName="Mes_Del_Semestre_Nombre" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="6503c39b-ed70-4e33-99ef-80648ae756a5" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año" msprop:FriendlyName="Semestre_Del_Año" type="xs:int" minOccurs="0" />
-                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="07359d8f-5d1e-40c6-82fd-b187d96fa3b0" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:FriendlyName="Semestre_Del_Año_Nombre" minOccurs="0">
+                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="6503c39b-ed70-4e33-99ef-80648ae756a5" msprop:FriendlyName="Semestre_Del_Año" msprop:DbColumnName="Semestre_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="07359d8f-5d1e-40c6-82fd-b187d96fa3b0" msprop:FriendlyName="Semestre_Del_Año_Nombre" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
@@ -3704,21 +3693,21 @@
               <xs:selector xpath=".//HoraVentas" />
               <xs:field xpath="Fecha" />
             </xs:unique>
-            <xs:keyref name="FK__Venta__id_sucurs__440B1D61" refer="dbo_Sucursal_Constraint1">
+            <xs:keyref name="FK__Venta__id_produc__4316F928" refer="dbo_Producto_Constraint1">
               <xs:selector xpath=".//dbo_Venta" />
-              <xs:field xpath="id_sucursal" />
-            </xs:keyref>
-            <xs:keyref name="FK__Venta__id_vended__4222D4EF" refer="dbo_Vendedor_Constraint1">
-              <xs:selector xpath=".//dbo_Venta" />
-              <xs:field xpath="id_vendedor" />
+              <xs:field xpath="id_producto" />
             </xs:keyref>
             <xs:keyref name="FK__Venta__id_client__412EB0B6" refer="Constraint1">
               <xs:selector xpath=".//dbo_Venta" />
               <xs:field xpath="id_cliente" />
             </xs:keyref>
-            <xs:keyref name="FK__Venta__id_produc__4316F928" refer="dbo_Producto_Constraint1">
+            <xs:keyref name="FK__Venta__id_vended__4222D4EF" refer="dbo_Vendedor_Constraint1">
               <xs:selector xpath=".//dbo_Venta" />
-              <xs:field xpath="id_producto" />
+              <xs:field xpath="id_vendedor" />
+            </xs:keyref>
+            <xs:keyref name="FK__Venta__id_sucurs__440B1D61" refer="dbo_Sucursal_Constraint1">
+              <xs:selector xpath=".//dbo_Venta" />
+              <xs:field xpath="id_sucursal" />
             </xs:keyref>
           </xs:element>
         </xs:schema>
@@ -3875,7 +3864,7 @@
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
                   </dds>
-</DiagramLayout>
+                </DiagramLayout>
                 <ShowRelationshipNames>False</ShowRelationshipNames>
                 <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
                 <DiagramViewPortLeft>-1428</DiagramViewPortLeft>
@@ -4029,80 +4018,80 @@
                 <xs:element name="HoraCompras" msprop:design-time-name="231bacd8-eea4-4a9b-9871-6649b46fd9c6" msprop:FriendlyName="HoraCompras" msprop:DbSchemaName="dbo" msprop:AllowGen="True" msprop:TableType="Table" msprop:DbTableName="HoraCompras">
                   <xs:complexType>
                     <xs:sequence>
-                      <xs:element name="Fecha" msprop:design-time-name="a89248f6-e5c4-4b2e-abae-80cc79543cc8" msprop:FriendlyName="PK_Fecha" msprop:DbColumnName="PK_Fecha" msprop:AllowGen="True" type="xs:dateTime" />
-                      <xs:element name="Fecha_Nombre" msprop:design-time-name="ef0efb31-0d6a-4a1b-8399-407a103c50c3" msprop:FriendlyName="Fecha_Nombre" msprop:DbColumnName="Fecha_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Fecha" msprop:design-time-name="a89248f6-e5c4-4b2e-abae-80cc79543cc8" msprop:AllowGen="True" msprop:DbColumnName="PK_Fecha" msprop:FriendlyName="PK_Fecha" type="xs:dateTime" />
+                      <xs:element name="Fecha_Nombre" msprop:design-time-name="ef0efb31-0d6a-4a1b-8399-407a103c50c3" msprop:AllowGen="True" msprop:DbColumnName="Fecha_Nombre" msprop:FriendlyName="Fecha_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Año" msprop:design-time-name="b80ad0ea-4884-4cd7-8cc7-e66dd7283082" msprop:FriendlyName="Año" msprop:DbColumnName="Año" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Año_Nombre" msprop:design-time-name="4ddd0331-e35b-4e6c-9314-d7c1b9742df4" msprop:FriendlyName="Año_Nombre" msprop:DbColumnName="Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Año" msprop:design-time-name="b80ad0ea-4884-4cd7-8cc7-e66dd7283082" msprop:AllowGen="True" msprop:DbColumnName="Año" msprop:FriendlyName="Año" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Año_Nombre" msprop:design-time-name="4ddd0331-e35b-4e6c-9314-d7c1b9742df4" msprop:AllowGen="True" msprop:DbColumnName="Año_Nombre" msprop:FriendlyName="Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre" msprop:design-time-name="502194f3-4fbe-4e54-8698-f5000dde9b41" msprop:FriendlyName="Semestre" msprop:DbColumnName="Semestre" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Semestre_Nombre" msprop:design-time-name="7f7fb6c3-ecc9-47a9-8e26-e709483e5b1f" msprop:FriendlyName="Semestre_Nombre" msprop:DbColumnName="Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Semestre" msprop:design-time-name="502194f3-4fbe-4e54-8698-f5000dde9b41" msprop:AllowGen="True" msprop:DbColumnName="Semestre" msprop:FriendlyName="Semestre" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Semestre_Nombre" msprop:design-time-name="7f7fb6c3-ecc9-47a9-8e26-e709483e5b1f" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Nombre" msprop:FriendlyName="Semestre_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes" msprop:design-time-name="4048c20a-00b4-48ba-93ea-c645bc086002" msprop:FriendlyName="Mes" msprop:DbColumnName="Mes" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Mes_Nombre" msprop:design-time-name="86ec6968-1c9d-4b6d-bd25-4becd098c22a" msprop:FriendlyName="Mes_Nombre" msprop:DbColumnName="Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Mes" msprop:design-time-name="4048c20a-00b4-48ba-93ea-c645bc086002" msprop:AllowGen="True" msprop:DbColumnName="Mes" msprop:FriendlyName="Mes" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Mes_Nombre" msprop:design-time-name="86ec6968-1c9d-4b6d-bd25-4becd098c22a" msprop:AllowGen="True" msprop:DbColumnName="Mes_Nombre" msprop:FriendlyName="Mes_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Año" msprop:design-time-name="f061c44e-0ff2-4eeb-a579-b9cf13e77b73" msprop:FriendlyName="Día_Del_Año" msprop:DbColumnName="Día_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="942ef0cf-0a36-4d5d-b5e5-c71685cef856" msprop:FriendlyName="Día_Del_Año_Nombre" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Día_Del_Año" msprop:design-time-name="f061c44e-0ff2-4eeb-a579-b9cf13e77b73" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año" msprop:FriendlyName="Día_Del_Año" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="942ef0cf-0a36-4d5d-b5e5-c71685cef856" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:FriendlyName="Día_Del_Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="490b0233-7d32-4a4a-a14a-abcbd414bfff" msprop:FriendlyName="Día_Del_Semestre" msprop:DbColumnName="Día_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="9c5c66f9-2857-42b0-bdd8-99a39817418d" msprop:FriendlyName="Día_Del_Semestre_Nombre" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="490b0233-7d32-4a4a-a14a-abcbd414bfff" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre" msprop:FriendlyName="Día_Del_Semestre" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="9c5c66f9-2857-42b0-bdd8-99a39817418d" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:FriendlyName="Día_Del_Semestre_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Mes" msprop:design-time-name="9bbf3cc4-667d-49ef-ace8-d7921e67fdaf" msprop:FriendlyName="Día_Del_Mes" msprop:DbColumnName="Día_Del_Mes" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="8238b7fc-0530-4f4b-b5f5-332c4bf98d76" msprop:FriendlyName="Día_Del_Mes_Nombre" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Día_Del_Mes" msprop:design-time-name="9bbf3cc4-667d-49ef-ace8-d7921e67fdaf" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes" msprop:FriendlyName="Día_Del_Mes" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="8238b7fc-0530-4f4b-b5f5-332c4bf98d76" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:FriendlyName="Día_Del_Mes_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Año" msprop:design-time-name="a3a52d61-865d-45de-8dcd-da7ec05bafc9" msprop:FriendlyName="Mes_Del_Año" msprop:DbColumnName="Mes_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="4b124ec7-cda6-41b9-b144-be53f6d5727e" msprop:FriendlyName="Mes_Del_Año_Nombre" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Mes_Del_Año" msprop:design-time-name="a3a52d61-865d-45de-8dcd-da7ec05bafc9" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año" msprop:FriendlyName="Mes_Del_Año" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="4b124ec7-cda6-41b9-b144-be53f6d5727e" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:FriendlyName="Mes_Del_Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="2f50694b-63dc-40fc-af01-7d838b142111" msprop:FriendlyName="Mes_Del_Semestre" msprop:DbColumnName="Mes_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="4164fba4-7ee6-478d-ab4f-26b4a35783eb" msprop:FriendlyName="Mes_Del_Semestre_Nombre" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="2f50694b-63dc-40fc-af01-7d838b142111" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre" msprop:FriendlyName="Mes_Del_Semestre" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="4164fba4-7ee6-478d-ab4f-26b4a35783eb" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:FriendlyName="Mes_Del_Semestre_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="fc493fc1-7766-48a8-889d-8d72beb1afac" msprop:FriendlyName="Semestre_Del_Año" msprop:DbColumnName="Semestre_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="cfd8deaf-a650-445d-b5e5-f39b981cb9df" msprop:FriendlyName="Semestre_Del_Año_Nombre" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="fc493fc1-7766-48a8-889d-8d72beb1afac" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año" msprop:FriendlyName="Semestre_Del_Año" type="xs:int" minOccurs="0" />
+                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="cfd8deaf-a650-445d-b5e5-f39b981cb9df" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:FriendlyName="Semestre_Del_Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
@@ -4134,17 +4123,17 @@
               <xs:selector xpath=".//HoraCompras" />
               <xs:field xpath="Fecha" />
             </xs:unique>
-            <xs:keyref name="FK__Compra__id_sucur__48CFD27E" refer="dbo_Sucursal_Constraint1">
+            <xs:keyref name="FK__Compra__id_prove__46E78A0C" refer="dbo_Proveedor_Constraint1">
               <xs:selector xpath=".//dbo_Compra" />
-              <xs:field xpath="id_sucursal" />
+              <xs:field xpath="id_proveedor" />
             </xs:keyref>
             <xs:keyref name="FK__Compra__id_produ__47DBAE45" refer="dbo_Producto_Constraint1">
               <xs:selector xpath=".//dbo_Compra" />
               <xs:field xpath="id_producto" />
             </xs:keyref>
-            <xs:keyref name="FK__Compra__id_prove__46E78A0C" refer="dbo_Proveedor_Constraint1">
+            <xs:keyref name="FK__Compra__id_sucur__48CFD27E" refer="dbo_Sucursal_Constraint1">
               <xs:selector xpath=".//dbo_Compra" />
-              <xs:field xpath="id_proveedor" />
+              <xs:field xpath="id_sucursal" />
             </xs:keyref>
           </xs:element>
         </xs:schema>
@@ -4154,8 +4143,8 @@
     <DataSourceView>
       <ID>ProyectoFase2_SSAS</ID>
       <Name>ProyectoFase2_SSAS</Name>
-      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <CreatedTimestamp>0001-01-01T06:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T06:00:00Z</LastSchemaUpdate>
       <Annotations>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
@@ -4207,7 +4196,7 @@
                       <shape groupshapeid="0" groupnode="0" />
                     </ddscontrol>
                   </dds>
-</DiagramLayout>
+                </DiagramLayout>
                 <ShowRelationshipNames>False</ShowRelationshipNames>
                 <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
                 <DiagramViewPortLeft>-7800</DiagramViewPortLeft>
@@ -4229,80 +4218,80 @@
                 <xs:element name="HoraVentas" msprop:design-time-name="e307b676-8937-4ace-8117-516d6009a46c" msprop:FriendlyName="HoraVentas" msprop:DbSchemaName="dbo" msprop:AllowGen="True" msprop:TableType="Table" msprop:DbTableName="HoraVentas">
                   <xs:complexType>
                     <xs:sequence>
-                      <xs:element name="Fecha" msprop:design-time-name="d5ae7a0b-6275-40fd-8b6b-d020be5081ca" msprop:FriendlyName="PK_Fecha" msprop:DbColumnName="PK_Fecha" msprop:AllowGen="True" type="xs:dateTime" />
-                      <xs:element name="Fecha_Nombre" msprop:design-time-name="35a77b66-d5d6-4c20-a929-fc2469a5ceb3" msprop:FriendlyName="Fecha_Nombre" msprop:DbColumnName="Fecha_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Fecha" msprop:design-time-name="d5ae7a0b-6275-40fd-8b6b-d020be5081ca" msprop:AllowGen="True" msprop:DbColumnName="PK_Fecha" msprop:FriendlyName="PK_Fecha" type="xs:dateTime" />
+                      <xs:element name="Fecha_Nombre" msprop:design-time-name="35a77b66-d5d6-4c20-a929-fc2469a5ceb3" msprop:AllowGen="True" msprop:DbColumnName="Fecha_Nombre" msprop:FriendlyName="Fecha_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Año" msprop:design-time-name="158c4ab0-517b-464b-bdd9-cb8b5df5e8ea" msprop:FriendlyName="Año" msprop:DbColumnName="Año" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Año_Nombre" msprop:design-time-name="272aa1f0-1e7b-463a-9d2f-c80673e1689b" msprop:FriendlyName="Año_Nombre" msprop:DbColumnName="Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Año" msprop:design-time-name="158c4ab0-517b-464b-bdd9-cb8b5df5e8ea" msprop:AllowGen="True" msprop:DbColumnName="Año" msprop:FriendlyName="Año" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Año_Nombre" msprop:design-time-name="272aa1f0-1e7b-463a-9d2f-c80673e1689b" msprop:AllowGen="True" msprop:DbColumnName="Año_Nombre" msprop:FriendlyName="Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre" msprop:design-time-name="c4303604-9562-4bf8-969f-39a34dd95a80" msprop:FriendlyName="Semestre" msprop:DbColumnName="Semestre" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Semestre_Nombre" msprop:design-time-name="02fbe01b-aa67-4c99-94b2-97ec5a649862" msprop:FriendlyName="Semestre_Nombre" msprop:DbColumnName="Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Semestre" msprop:design-time-name="c4303604-9562-4bf8-969f-39a34dd95a80" msprop:AllowGen="True" msprop:DbColumnName="Semestre" msprop:FriendlyName="Semestre" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Semestre_Nombre" msprop:design-time-name="02fbe01b-aa67-4c99-94b2-97ec5a649862" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Nombre" msprop:FriendlyName="Semestre_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes" msprop:design-time-name="1fc5e7a4-a87e-41b0-9e91-a743c76ef543" msprop:FriendlyName="Mes" msprop:DbColumnName="Mes" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Mes_Nombre" msprop:design-time-name="81a03c43-01ab-4802-8e80-d603254c38f3" msprop:FriendlyName="Mes_Nombre" msprop:DbColumnName="Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Mes" msprop:design-time-name="1fc5e7a4-a87e-41b0-9e91-a743c76ef543" msprop:AllowGen="True" msprop:DbColumnName="Mes" msprop:FriendlyName="Mes" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Mes_Nombre" msprop:design-time-name="81a03c43-01ab-4802-8e80-d603254c38f3" msprop:AllowGen="True" msprop:DbColumnName="Mes_Nombre" msprop:FriendlyName="Mes_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Año" msprop:design-time-name="91dd274d-4ecf-45b7-b56f-eea983b42d2e" msprop:FriendlyName="Día_Del_Año" msprop:DbColumnName="Día_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="43558cd8-2940-42d9-ab1b-bc3b57aab148" msprop:FriendlyName="Día_Del_Año_Nombre" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Día_Del_Año" msprop:design-time-name="91dd274d-4ecf-45b7-b56f-eea983b42d2e" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año" msprop:FriendlyName="Día_Del_Año" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="43558cd8-2940-42d9-ab1b-bc3b57aab148" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:FriendlyName="Día_Del_Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="58e2c925-14b2-4c00-9870-627de1a0c1ce" msprop:FriendlyName="Día_Del_Semestre" msprop:DbColumnName="Día_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="7bd54d7e-fb6f-4b9c-b38b-796db79a921e" msprop:FriendlyName="Día_Del_Semestre_Nombre" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="58e2c925-14b2-4c00-9870-627de1a0c1ce" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre" msprop:FriendlyName="Día_Del_Semestre" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="7bd54d7e-fb6f-4b9c-b38b-796db79a921e" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:FriendlyName="Día_Del_Semestre_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Mes" msprop:design-time-name="608beb01-c391-477e-b923-b30aab3878a1" msprop:FriendlyName="Día_Del_Mes" msprop:DbColumnName="Día_Del_Mes" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="68bc1847-2a1f-4f34-b91b-e9ab235cad80" msprop:FriendlyName="Día_Del_Mes_Nombre" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Día_Del_Mes" msprop:design-time-name="608beb01-c391-477e-b923-b30aab3878a1" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes" msprop:FriendlyName="Día_Del_Mes" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="68bc1847-2a1f-4f34-b91b-e9ab235cad80" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:FriendlyName="Día_Del_Mes_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Año" msprop:design-time-name="423cc84c-4f5b-4956-924c-7075189d9967" msprop:FriendlyName="Mes_Del_Año" msprop:DbColumnName="Mes_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="956bf8b4-0ee5-413c-a344-72e4e16679b5" msprop:FriendlyName="Mes_Del_Año_Nombre" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Mes_Del_Año" msprop:design-time-name="423cc84c-4f5b-4956-924c-7075189d9967" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año" msprop:FriendlyName="Mes_Del_Año" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="956bf8b4-0ee5-413c-a344-72e4e16679b5" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:FriendlyName="Mes_Del_Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="e1559e6e-d1d2-41c8-986e-33fb02a7e5f2" msprop:FriendlyName="Mes_Del_Semestre" msprop:DbColumnName="Mes_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="a64590ab-69b1-4254-806e-1b3ca1ee733d" msprop:FriendlyName="Mes_Del_Semestre_Nombre" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="e1559e6e-d1d2-41c8-986e-33fb02a7e5f2" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre" msprop:FriendlyName="Mes_Del_Semestre" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="a64590ab-69b1-4254-806e-1b3ca1ee733d" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:FriendlyName="Mes_Del_Semestre_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="06e7f65c-27b3-44de-accd-fa76c60d5720" msprop:FriendlyName="Semestre_Del_Año" msprop:DbColumnName="Semestre_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
-                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="b51705c9-ee42-48be-810b-fcfa734888a5" msprop:FriendlyName="Semestre_Del_Año_Nombre" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
+                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="06e7f65c-27b3-44de-accd-fa76c60d5720" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año" msprop:FriendlyName="Semestre_Del_Año" type="xs:int" minOccurs="0" />
+                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="b51705c9-ee42-48be-810b-fcfa734888a5" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:FriendlyName="Semestre_Del_Año_Nombre" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
@@ -4315,80 +4304,80 @@
                 <xs:element name="HoraCompras" msprop:design-time-name="6e628a7e-8948-4abc-8eac-a28b39d4a1e8" msprop:FriendlyName="HoraCompras" msprop:DbSchemaName="dbo" msprop:AllowGen="True" msprop:TableType="Table" msprop:DbTableName="HoraCompras">
                   <xs:complexType>
                     <xs:sequence>
-                      <xs:element name="Fecha" msprop:design-time-name="4d456df0-349f-4c8a-8db0-71a108bc03cb" msprop:AllowGen="True" msprop:DbColumnName="PK_Fecha" msprop:FriendlyName="PK_Fecha" type="xs:dateTime" />
-                      <xs:element name="Fecha_Nombre" msprop:design-time-name="8a8f57ea-2b7f-4fb4-9d33-2d018eaa0143" msprop:AllowGen="True" msprop:DbColumnName="Fecha_Nombre" msprop:FriendlyName="Fecha_Nombre" minOccurs="0">
+                      <xs:element name="Fecha" msprop:design-time-name="4d456df0-349f-4c8a-8db0-71a108bc03cb" msprop:FriendlyName="PK_Fecha" msprop:DbColumnName="PK_Fecha" msprop:AllowGen="True" type="xs:dateTime" />
+                      <xs:element name="Fecha_Nombre" msprop:design-time-name="8a8f57ea-2b7f-4fb4-9d33-2d018eaa0143" msprop:FriendlyName="Fecha_Nombre" msprop:DbColumnName="Fecha_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Año" msprop:design-time-name="e57f1372-bdfe-4cda-b325-b4af5f544340" msprop:AllowGen="True" msprop:DbColumnName="Año" msprop:FriendlyName="Año" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Año_Nombre" msprop:design-time-name="60b3693f-d6bf-4a7e-a419-167fa829dd1c" msprop:AllowGen="True" msprop:DbColumnName="Año_Nombre" msprop:FriendlyName="Año_Nombre" minOccurs="0">
+                      <xs:element name="Año" msprop:design-time-name="e57f1372-bdfe-4cda-b325-b4af5f544340" msprop:FriendlyName="Año" msprop:DbColumnName="Año" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Año_Nombre" msprop:design-time-name="60b3693f-d6bf-4a7e-a419-167fa829dd1c" msprop:FriendlyName="Año_Nombre" msprop:DbColumnName="Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre" msprop:design-time-name="5af3edea-139e-4d26-a67f-b8e090a95695" msprop:AllowGen="True" msprop:DbColumnName="Semestre" msprop:FriendlyName="Semestre" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Semestre_Nombre" msprop:design-time-name="4e4d33e8-2d75-43c6-bc47-fd8aa8eb6a40" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Nombre" msprop:FriendlyName="Semestre_Nombre" minOccurs="0">
+                      <xs:element name="Semestre" msprop:design-time-name="5af3edea-139e-4d26-a67f-b8e090a95695" msprop:FriendlyName="Semestre" msprop:DbColumnName="Semestre" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Semestre_Nombre" msprop:design-time-name="4e4d33e8-2d75-43c6-bc47-fd8aa8eb6a40" msprop:FriendlyName="Semestre_Nombre" msprop:DbColumnName="Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes" msprop:design-time-name="9f9f1159-eca7-4f9c-8f01-61b9765a36d6" msprop:AllowGen="True" msprop:DbColumnName="Mes" msprop:FriendlyName="Mes" type="xs:dateTime" minOccurs="0" />
-                      <xs:element name="Mes_Nombre" msprop:design-time-name="8060b5a7-85ce-44e9-9354-9386b85d8118" msprop:AllowGen="True" msprop:DbColumnName="Mes_Nombre" msprop:FriendlyName="Mes_Nombre" minOccurs="0">
+                      <xs:element name="Mes" msprop:design-time-name="9f9f1159-eca7-4f9c-8f01-61b9765a36d6" msprop:FriendlyName="Mes" msprop:DbColumnName="Mes" msprop:AllowGen="True" type="xs:dateTime" minOccurs="0" />
+                      <xs:element name="Mes_Nombre" msprop:design-time-name="8060b5a7-85ce-44e9-9354-9386b85d8118" msprop:FriendlyName="Mes_Nombre" msprop:DbColumnName="Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Año" msprop:design-time-name="690c91b3-c725-4b2f-a87a-dc241f076aad" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año" msprop:FriendlyName="Día_Del_Año" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="81661164-40c8-44ed-936f-5d8a70460a9b" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:FriendlyName="Día_Del_Año_Nombre" minOccurs="0">
+                      <xs:element name="Día_Del_Año" msprop:design-time-name="690c91b3-c725-4b2f-a87a-dc241f076aad" msprop:FriendlyName="Día_Del_Año" msprop:DbColumnName="Día_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Año_Nombre" msprop:design-time-name="81661164-40c8-44ed-936f-5d8a70460a9b" msprop:FriendlyName="Día_Del_Año_Nombre" msprop:DbColumnName="Día_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="5363db12-74cd-44aa-be81-28bd18ec8e8f" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre" msprop:FriendlyName="Día_Del_Semestre" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="eaa296a9-d4a0-4d1d-80fd-afbff0d81d44" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:FriendlyName="Día_Del_Semestre_Nombre" minOccurs="0">
+                      <xs:element name="Día_Del_Semestre" msprop:design-time-name="5363db12-74cd-44aa-be81-28bd18ec8e8f" msprop:FriendlyName="Día_Del_Semestre" msprop:DbColumnName="Día_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Semestre_Nombre" msprop:design-time-name="eaa296a9-d4a0-4d1d-80fd-afbff0d81d44" msprop:FriendlyName="Día_Del_Semestre_Nombre" msprop:DbColumnName="Día_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Día_Del_Mes" msprop:design-time-name="f5ab7a2f-ba3d-423a-a406-7659a968a475" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes" msprop:FriendlyName="Día_Del_Mes" type="xs:int" minOccurs="0" />
-                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="6c5f78c4-75cc-4d7f-9eea-3880a44a3253" msprop:AllowGen="True" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:FriendlyName="Día_Del_Mes_Nombre" minOccurs="0">
+                      <xs:element name="Día_Del_Mes" msprop:design-time-name="f5ab7a2f-ba3d-423a-a406-7659a968a475" msprop:FriendlyName="Día_Del_Mes" msprop:DbColumnName="Día_Del_Mes" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Día_Del_Mes_Nombre" msprop:design-time-name="6c5f78c4-75cc-4d7f-9eea-3880a44a3253" msprop:FriendlyName="Día_Del_Mes_Nombre" msprop:DbColumnName="Día_Del_Mes_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Año" msprop:design-time-name="9e922ff5-231d-495c-94a5-f76ef2bee99a" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año" msprop:FriendlyName="Mes_Del_Año" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="05f7f6e3-5239-44ac-aac6-1d0735d103b3" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:FriendlyName="Mes_Del_Año_Nombre" minOccurs="0">
+                      <xs:element name="Mes_Del_Año" msprop:design-time-name="9e922ff5-231d-495c-94a5-f76ef2bee99a" msprop:FriendlyName="Mes_Del_Año" msprop:DbColumnName="Mes_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Año_Nombre" msprop:design-time-name="05f7f6e3-5239-44ac-aac6-1d0735d103b3" msprop:FriendlyName="Mes_Del_Año_Nombre" msprop:DbColumnName="Mes_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="e768eff9-a9e3-42bf-99ac-f8a9fc41a8ba" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre" msprop:FriendlyName="Mes_Del_Semestre" type="xs:int" minOccurs="0" />
-                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="40d91d2c-8acc-4089-a60c-08f13106d546" msprop:AllowGen="True" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:FriendlyName="Mes_Del_Semestre_Nombre" minOccurs="0">
+                      <xs:element name="Mes_Del_Semestre" msprop:design-time-name="e768eff9-a9e3-42bf-99ac-f8a9fc41a8ba" msprop:FriendlyName="Mes_Del_Semestre" msprop:DbColumnName="Mes_Del_Semestre" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Mes_Del_Semestre_Nombre" msprop:design-time-name="40d91d2c-8acc-4089-a60c-08f13106d546" msprop:FriendlyName="Mes_Del_Semestre_Nombre" msprop:DbColumnName="Mes_Del_Semestre_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />
                           </xs:restriction>
                         </xs:simpleType>
                       </xs:element>
-                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="fafeae8f-5086-4f5c-b200-362ed6c877a9" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año" msprop:FriendlyName="Semestre_Del_Año" type="xs:int" minOccurs="0" />
-                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="627cb4c9-267e-4655-87af-e40628b2d43b" msprop:AllowGen="True" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:FriendlyName="Semestre_Del_Año_Nombre" minOccurs="0">
+                      <xs:element name="Semestre_Del_Año" msprop:design-time-name="fafeae8f-5086-4f5c-b200-362ed6c877a9" msprop:FriendlyName="Semestre_Del_Año" msprop:DbColumnName="Semestre_Del_Año" msprop:AllowGen="True" type="xs:int" minOccurs="0" />
+                      <xs:element name="Semestre_Del_Año_Nombre" msprop:design-time-name="627cb4c9-267e-4655-87af-e40628b2d43b" msprop:FriendlyName="Semestre_Del_Año_Nombre" msprop:DbColumnName="Semestre_Del_Año_Nombre" msprop:AllowGen="True" minOccurs="0">
                         <xs:simpleType>
                           <xs:restriction base="xs:string">
                             <xs:maxLength value="50" />

@@ -110,14 +110,14 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>yC4DnTlTMO1ttABRE+mpTXv2NAo=30/04/2024 01:08:5729/04/2024 21:16:35YmQiwaEdBhSBi0b5PgrvtpYyFD8=29/04/2024 03:01:4229/04/2024 21:16:35</TimeStamp>
+        <TimeStamp>EghFspgCCqCMpVmTnO6Zkz2O4E0=30/04/2024 02:21:3329/04/2024 21:16:35YmQiwaEdBhSBi0b5PgrvtpYyFD8=29/04/2024 03:01:4229/04/2024 21:16:35</TimeStamp>
         <ID>
           <String>cubo_ventas</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>EUW/QoFIfzOalDOVEWhRQ7PYxq0=30/04/2024 01:50:2529/04/2024 23:46:11T8yYSBX0MSdWuJfKpzuUxYfRvwg=29/04/2024 23:46:1129/04/2024 23:46:11</TimeStamp>
+        <TimeStamp>08Ygh0/Z4zJK2w+WaGBiLjGSbUw=30/04/2024 02:21:3329/04/2024 23:46:11T8yYSBX0MSdWuJfKpzuUxYfRvwg=29/04/2024 23:46:1129/04/2024 23:46:11</TimeStamp>
         <ID>
           <String>vista_compras</String>
         </ID>
@@ -134,5 +134,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2024-04-30T07:50:39.1Z</LastDeployed>
+  <LastDeployed>2024-04-30T08:21:46.513333Z</LastDeployed>
 </DeploymentSnapshot>
